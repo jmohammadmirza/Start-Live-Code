@@ -383,7 +383,7 @@ FORM
 	</div></div></div>
 	
 	<ul><li><label><input type="checkbox" role="checkbox" class="ss-q-checkbox" aria-required="true" id="privacy">
-I agree and consent to the terms of the <a href="/privacy" target="_blank">Privacy Policy.</a> I consent to PayPal processing and disclosing my data (including outside the EEA) and communicating with me according to that policy. I also consent to the use of website tracking methods, including cookies and similar technology.
+I agree and consent to the terms of the <a href="/privacy" target="_blank">Privacy Policy.</a> I consent to PayPal processing and disclosing my data  and communicating with me according to that policy. I also consent to the use of website tracking methods, including cookies and similar technology.
 	</label></li></ul>
 	
 	

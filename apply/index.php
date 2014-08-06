@@ -63,7 +63,7 @@ SOCIAL
 <script src="//platform.linkedin.com/in.js" type="text/javascript">
   lang: en_US
 </script>
-<script type="IN/Share" data-url="http://localhost:8085/Chennai/Apply.html"></script>
+<script type="IN/Share" data-url="http://chennai.starttank.com/apply/"></script>
    <!-- 
     <a href="http://in.linkedin.com/pub/start-tank-chennai/a0/15b/8a6">
       
@@ -93,9 +93,9 @@ name: 'Join Start Tank Chennai – PayPal’s Incubation Center.',
 link: ' http://chennai.starttank.com/',
 picture: 'http://media.indiatimes.in/media/content/2014/Jul/paypal_starttank_chennai2_1405062506_540x540.jpg',
 caption: 'Join the Start tank Challenge.',
-description: 'PayPal India, in partnership with The Indus Entrepreneurs (TiE) Chennai Chapter, launched Start Tank, the startup incubator, at PayPal’s Chennai development center.The initiative seeks to nurture and support the creation of a new generation of technology companies by offering them not just initial infrastructure and mentorship, direction and encouragement, but also a chance to work alongside some of the best minds in the field.',
-message: 'Join the Challenge Apply',
-	message: ''
+description: 'PayPal India, in partnership with The Indus Entrepreneurs (TiE) Chennai Chapter, launched Start Tank, the startup incubator, at PayPal’s Chennai development center.The initiative seeks to nurture and support the creation of a new generation of innovative tech startup companies by offering them not just initial infrastructure and mentorship, direction and encouragement, but also a chance to work alongside some of the best minds in the field.',
+message: '',
+	
 	});
 	});
 	});

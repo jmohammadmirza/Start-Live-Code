@@ -1,24 +1,11 @@
 <?php include('includes/head.php'); ?>
 
 <div class="about">
-<div id="about1">
-	<!-- <div id="logo">Start Tank</div> -->
-</div> <!--#about1-->
-<article id="about">
-<div id="about2">
-	<div class="aboutSubContainerL logo_square">
-		&nbsp;
-	</div><!-- /aboutSubContainerL -->
-	
-	<div class="aboutSubContainerR">
-	<h1>Start Tank Chennai</h1>
-	<p>
-PayPal India, in partnership with The Indus Entrepreneurs (TiE) Chennai Chapter, launched Start Tank, the startup incubator, at PayPal’s Chennai development center in 2013. The initiative seeks to nurture and support the creation of a new generation of technology companies by offering them not just initial infrastructure and mentorship, direction and encouragement, but also a chance to work alongside some of the best minds in the field. Start Tank, which is a part of the Corporate Social Responsibility (CSR) program of PayPal, provides a cost and obligation-free environment for the selected startups to evolve. 
-<br /><br />
-Start Tank Chennai aims to be a world-class incubation center that nurtures world-class innovative ideas. In its first year, it seeks to support 3-5 innovative incubatee startups in the areas outlined in the ‘Eligibility section'. Come visit us @ PayPal India Pvt. Ltd., 6th floor, Futura IT Park, Block A, 334, OMR Road, Sholinganallur, Chennai, Tamil Nadu 600-119
-
-
-</p>
+  <p>In 2013, PayPal India launched Start Tank Chennai, an  innovation space for the next generation of startups in India. It is located  within PayPal&rsquo;s India Development Center in Chennai. The initiative seeks to  nurture and support the creation of a new generation of technology companies by  offering them not just initial infrastructure and mentorship, direction and  encouragement, but also a chance to work alongside some of the best minds in  the field. PayPal has partnered with TiE Chennai and their mentor network to  support the varying needs of the incubated startups</p>
+  <p>Start Tank, which is a part of the Corporate Social  Responsibility (CSR) program of PayPal, provides a cost and obligation-free  environment for the selected startups to evolve. </p>
+  <p>Start Tank Chennai aims to be a world-class incubation  center that nurtures world-class innovative ideas. In its first year, it  supported 4 innovative startups and intends to expand the program to more  startups in the areas outlined in the 'Eligibility' section. </p>
+  <p>Come visit us @ PayPal India Pvt. Ltd., 6th floor,  Futura IT Park, Block A, 334, OMR Road, Sholinganallur, Chennai, Tamil Nadu 600  119.</p>
+<article id="about"><div id="about2"><div class="aboutSubContainerR"><p>&nbsp;</p>
 	</div><!-- /aboutSubContainerR -->
 
 </div><!-- /about2 -->

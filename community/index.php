@@ -99,6 +99,22 @@ A sports fan engagement and management company whose signature mobile applicatio
 	-->
 	<div class="mentors">
 		<ul class="mentor_logos">
+        <li class="anupam"><a href="#m_detail">
+							<img src="https://where-spotlight.s3.amazonaws.com/start-tank-chennai/mentors/Anupam_Pahuja.jpg" />
+						</a></li>
+                        <li class="ram"><a href="#m_detail">
+							<img src="https://where-spotlight.s3.amazonaws.com/start-tank-chennai/mentors/ramkumar.jpg" />
+						</a></li>
+                        
+                        <li class="sunil"><a href="#m_detail">
+							<img src="https://where-spotlight.s3.amazonaws.com/start-tank-chennai/mentors/sunil.jpg"/>
+						</a></li>
+                         <li class="ashish"><a href="#m_detail">
+							<img src="https://where-spotlight.s3.amazonaws.com/start-tank-chennai/mentors/Ashish.jpg" />
+						</a></li>
+                        	<li class="laks"><a href="#m_detail">
+							<img src="https://where-spotlight.s3.amazonaws.com/start-tank-chennai/mentors/laks.jpg" />
+						</a></li>
 			<li class="veeran"><a href="#m_detail">
 							<img src="https://where-spotlight.s3.amazonaws.com/start-tank-chennai/mentors/veeran.jpg" />
 						</a></li>
@@ -108,26 +124,15 @@ A sports fan engagement and management company whose signature mobile applicatio
 						<li class="raghu"><a href="#m_detail">
 							<img src="https://where-spotlight.s3.amazonaws.com/start-tank-chennai/mentors/raghu.jpg"/>
 						</a></li>
-						<li class="anupam"><a href="#m_detail">
-							<img src="https://where-spotlight.s3.amazonaws.com/start-tank-chennai/mentors/Anupam_Pahuja.jpg" />
-						</a></li>
+						
 						<li class="dorai"><a href="#m_detail">
 							<img src="https://where-spotlight.s3.amazonaws.com/start-tank-chennai/mentors/Dorai Thodla.jpg" />
 						</a></li>
-						<li class="sunil"><a href="#m_detail">
-							<img src="https://where-spotlight.s3.amazonaws.com/start-tank-chennai/mentors/sunil.jpg"/>
-						</a></li>
-						<li class="ram"><a href="#m_detail">
-							<img src="https://where-spotlight.s3.amazonaws.com/start-tank-chennai/mentors/ramkumar.jpg" />
-						</a></li>
-						<li class="laks"><a href="#m_detail">
-							<img src="https://where-spotlight.s3.amazonaws.com/start-tank-chennai/mentors/laks.jpg" />
-						</a></li>
-			            <li class="ashish"><a href="#m_detail">
-							<img src="https://where-spotlight.s3.amazonaws.com/start-tank-chennai/mentors/Ashish.jpg" />
-						</a></li>
+						
 			
-		</ul>
+			          
+			
+	  </ul>
 
 		<div class="mentor_hiddenCopy">
 			<article>
